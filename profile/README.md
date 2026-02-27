@@ -2,4 +2,5 @@
 
 **Welcome to our GitHub organization!**
 
-Soon you will find here code, documentation and design files for our open-source products.
+Here you’ll find the firmware for our products, along with tools and libraries to extend, customize, and integrate them into your own projects.
+
